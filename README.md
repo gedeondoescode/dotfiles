@@ -23,7 +23,7 @@ A collection of my dotfiles, primarily for Linux
   - **find files**: [fd](https://github.com/sharkdp/fd)
 - a terminal that support true color and *undercurl*:
   - [kitty](https://github.com/kovidgoyal/kitty) **_(Linux & Macos)_**
-  - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_** **My personal choice**
+  - [wezterm](https://github.com/wez/wezterm) **_(Linux, Macos & Windows)_** **ℹ️ My personal choice**
   - [alacritty](https://github.com/alacritty/alacritty) **_(Linux, Macos & Windows)_** 
   - [iterm2](https://iterm2.com/) **_(Macos)_**
 
