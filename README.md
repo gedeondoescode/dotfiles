@@ -3,7 +3,7 @@ A collection of my dotfiles, primarily for Linux
 
 ⚠️ **Warning**: These configs have been specifically tailored in a way that _I_ am familiar with. Some of these configurations can create unexpected behavior on different hardware so it's best to not use these unless you know what you're doing.
 
-# Configuration COntents
+# Configuration Contents
 - Neovim
 - Fish Shell
 - Wezterm
@@ -17,7 +17,7 @@ A collection of my dotfiles, primarily for Linux
 - [LazyVim](https://www.lazyvim.org/)
 - a [Nerd Font](https://www.nerdfonts.com/)(v3.0 or greater) **_(optional, but needed to display some icons)_**
 - [lazygit](https://github.com/jesseduffield/lazygit) **_(optional)_**
-- - a **C** compiler for `nvim-treesitter`. See [here](https://github.com/nvim-treesitter/nvim-treesitter#requirements)
+- a **C** compiler for `nvim-treesitter`. See [here](https://github.com/nvim-treesitter/nvim-treesitter#requirements)
 - for [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) **_(optional)_**
   - **live grep**: [ripgrep](https://github.com/BurntSushi/ripgrep)
   - **find files**: [fd](https://github.com/sharkdp/fd)
