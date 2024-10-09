@@ -1,0 +1,16 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	name = Gedeon Sainrival
+	email = hello@gedeondoescode.com
+	signingkey = 880358288016BFA0
+[commit]
+	gpgsign = true
+[credential]
+	helper = store
+[push]
+	autoSetupRemote = true
