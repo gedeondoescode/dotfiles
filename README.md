@@ -36,5 +36,5 @@ A collection of my dotfiles, primarily for Linux
 - [Eza](https://github.com/eza-community/eza) - `ls` replacement
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Interactive filtering
 
-# Closing statement+
+# Closing statement
 There are no steps for installations since I don't expect anyone using these configs for anything. This is just o keep things hosted on a remote repository for when I inevitably need them again.
