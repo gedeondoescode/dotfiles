@@ -4,8 +4,10 @@ local wezterm = require("wezterm")
 -- This will hold the configuration.
 local config = wezterm.config_builder()
 
--- This is where you actually apply your config choices
+config.enable_wayland = true
+config.front_end = 'OpenGL'
 
+-- This is where you actually apply your config choices
 config.color_scheme = "Gruvbox dark, soft (base16)"
 config.font = wezterm.font("FiraCode Nerd Font")
 
@@ -23,6 +25,8 @@ config.keys = {
     action = wezterm.action.SplitVertical({ domain = "CurrentPaneDomain" }),
   },
 }
+
+
 
 -- and finally, return the configuration to wezterm
 return config
