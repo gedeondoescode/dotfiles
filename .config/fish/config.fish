@@ -7,5 +7,10 @@ if status is-interactive
     # Volta 
     set -Ux VOLTA_HOME "$HOME/.volta"
 
+    # Zig
+    set -Ux ZVM_INSTALL "$HOME/.zvm/self/"
+
+    # Nvidia Vulkan cuz apparently some applications can't find that shit
+    set -Ux VK_DRIVER_FILES /usr/share/vulkan/icd.d/nvidia_icd.json
     starship init fish | source
 end

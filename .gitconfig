@@ -7,10 +7,12 @@
 [user]
 	name = Gedeon Sainrival
 	email = hello@gedeondoescode.com
-	signingkey = 880358288016BFA0
+	signingKey = 857C936B0D6039492C7241B4677312C391A5A5C1
 [commit]
 	gpgsign = true
 [credential]
 	helper = store
 [push]
 	autoSetupRemote = true
+[tag]
+	gpgSign = true
