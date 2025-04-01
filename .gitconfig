@@ -16,3 +16,5 @@
 	autoSetupRemote = true
 [tag]
 	gpgSign = true
+[pull]
+	rebase = true

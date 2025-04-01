@@ -61,7 +61,7 @@ function upgrade
     else
         echo " WARN: Versions don't match!"
         echo " Arch Linux PGP Keyring is out of date"
-        sudo pacman -Sy --needed -no-confirm archlinux-keyring
+        sudo pacman -Sy --needed archlinux-keyring
     end
 
     # Go through with installing with Yay, otherwise Pacman if yay is not present
