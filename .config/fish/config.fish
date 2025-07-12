@@ -14,3 +14,5 @@ if status is-interactive
     set -Ux VK_DRIVER_FILES /usr/share/vulkan/icd.d/nvidia_icd.json
     starship init fish | source
 end
+
+thefuck --alias | source

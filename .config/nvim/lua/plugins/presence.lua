@@ -2,7 +2,7 @@ return {
   {
     "vyfor/cord.nvim",
     event = "VeryLazy",
-    build = "./build || .\\build",
+    build = ":Cord update",
     opts = {
       function()
         require("cord").setup({
