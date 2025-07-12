@@ -5,6 +5,7 @@ A collection of my dotfiles, primarily for Linux
 
 # Configuration Contents
 - Neovim
+- Emacs
 - Fish Shell
 - Wezterm
 
