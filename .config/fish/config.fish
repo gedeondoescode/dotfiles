@@ -16,3 +16,5 @@ if status is-interactive
 end
 
 thefuck --alias | source
+
+# eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"

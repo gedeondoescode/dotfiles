@@ -21,3 +21,6 @@
 
 [includeIf "gitdir:~/CLionProjects/**/*"]
   path = ~/.gitconfig-nightfwm
+
+[includeIf "gitdir:~/Projects/sensorium/**/*"]
+  path = ~/.gitconfig-nightfwm
